@@ -1,1 +1,3 @@
-# Getting Started with Create React App
+# cryptotrade
+
+A react app that shows activities of popular cryptocurrencies and market values
